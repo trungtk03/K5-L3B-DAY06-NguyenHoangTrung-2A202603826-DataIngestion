@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,source_page,none,sentence-transformers/all-MiniLM-L6-v2,Fixed size windows may truncate clauses mid-sentence leading to lower coherence and moderate retrieval,4/15,10/15,0/5,2/5,Baseline fixed-size
+B,by_paragraph,800,0,source_page_category,none,sentence-transformers/all-MiniLM-L6-v2,Paragraph chunking preserves legal and academic clauses in full context improving coherence and retrieval,3/15,7/15,0/5,3/5,Structure-aware chunking
+C,by_paragraph,800,0,source_page_category,category_filter,sentence-transformers/all-MiniLM-L6-v2,Adding category metadata filtering eliminates cross-domain distractors when filter provided yielding highest precision,3/15,7/15,0/5,3/5,Controlled comparison with B (filter only)

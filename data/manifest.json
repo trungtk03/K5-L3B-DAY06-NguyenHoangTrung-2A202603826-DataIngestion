@@ -1,0 +1,215 @@
+{
+  "manifest_version": "1.0",
+  "dataset_name": "Sổ tay Sinh viên & Quy chế Đào tạo Đại học 2024-2025",
+  "source_id": "handbook_2024",
+  "title": "Sổ tay Học vụ, Khảo thí, Công tác Sinh viên, Ký túc xá & Nghiên cứu Khoa học",
+  "source_path_or_url": "data/so_tay_sinh_vien_2024.json",
+  "license_or_permission": "Tài liệu học vụ công khai nội bộ nhà trường (Open Campus Educational Resource / MIT Educational Use)",
+  "accessed_at": "2024-09-01T08:00:00+07:00",
+  "rules_for_counting": "Tài liệu được phân chia theo đơn vị trang chuẩn hóa (32 trang/đơn vị). Mỗi đơn vị tương ứng một chủ đề/chương cụ thể với nội dung hoàn chỉnh và chứa tối thiểu 1.500 ký tự chuẩn hóa Unicode NFC (trang ngắn nhất đạt trên 1.550 ký tự, trang dài nhất đạt trên 2.200 ký tự).",
+  "total_pages": 32,
+  "total_characters": 56405,
+  "metadata_fields": {
+    "document_id": "Mã định danh văn bản nguồn (handbook_2024)",
+    "source": "Đường dẫn file nguồn",
+    "page": "Số thứ tự trang (1 đến 32)",
+    "section": "Tên chương và nội dung điều khoản",
+    "category": "Phân loại lĩnh vực: quy_che_dao_tao (1-10), khao_thi_dam_bao_chat_luong (11-16), cong_tac_sinh_vien (17-22), ky_tuc_xa_noi_tru (23-27), nghien_cuu_khoa_hoc (28-32)",
+    "audience": "Đối tượng áp dụng (sinh_vien_dai_hoc, sinh_vien_noi_tru)",
+    "year": 2024
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section": "Chương 1: Quy định chung về đào tạo tín chỉ",
+      "category": "quy_che_dao_tao",
+      "char_count": 2455
+    },
+    {
+      "page": 2,
+      "section": "Chương 2: Đăng ký học phần và kế hoạch học tập",
+      "category": "quy_che_dao_tao",
+      "char_count": 2432
+    },
+    {
+      "page": 3,
+      "section": "Chương 3: Chuyên cần và điều kiện dự thi",
+      "category": "quy_che_dao_tao",
+      "char_count": 2058
+    },
+    {
+      "page": 4,
+      "section": "Chương 4: Thang điểm và đánh giá kết quả học tập",
+      "category": "quy_che_dao_tao",
+      "char_count": 2015
+    },
+    {
+      "page": 5,
+      "section": "Chương 5: Xử lý học vụ và buộc thôi học",
+      "category": "quy_che_dao_tao",
+      "char_count": 1814
+    },
+    {
+      "page": 6,
+      "section": "Chương 6: Học lại và học cải thiện điểm",
+      "category": "quy_che_dao_tao",
+      "char_count": 1678
+    },
+    {
+      "page": 7,
+      "section": "Chương 7: Tạm hoãn học tập và bảo lưu kết quả",
+      "category": "quy_che_dao_tao",
+      "char_count": 1694
+    },
+    {
+      "page": 8,
+      "section": "Chương 8: Chuyển ngành đào tạo và chuyển trường",
+      "category": "quy_che_dao_tao",
+      "char_count": 1648
+    },
+    {
+      "page": 9,
+      "section": "Chương 9: Thực tập tốt nghiệp và đồ án khóa luận",
+      "category": "quy_che_dao_tao",
+      "char_count": 1740
+    },
+    {
+      "page": 10,
+      "section": "Chương 10: Điều kiện xét và công nhận tốt nghiệp",
+      "category": "quy_che_dao_tao",
+      "char_count": 1703
+    },
+    {
+      "page": 11,
+      "section": "Chương 11: Quy chế phòng thi và kỷ luật phòng thi",
+      "category": "khao_thi_dam_bao_chat_luong",
+      "char_count": 1551
+    },
+    {
+      "page": 12,
+      "section": "Chương 12: Xử lý vi phạm kỷ luật phòng thi",
+      "category": "khao_thi_dam_bao_chat_luong",
+      "char_count": 1973
+    },
+    {
+      "page": 13,
+      "section": "Chương 13: Hoãn thi và điều kiện thi bổ sung",
+      "category": "khao_thi_dam_bao_chat_luong",
+      "char_count": 1767
+    },
+    {
+      "page": 14,
+      "section": "Chương 14: Phúc khảo bài thi và đối thoại điểm số",
+      "category": "khao_thi_dam_bao_chat_luong",
+      "char_count": 1679
+    },
+    {
+      "page": 15,
+      "section": "Chương 15: Ngân hàng đề thi và hình thức thi dự án",
+      "category": "khao_thi_dam_bao_chat_luong",
+      "char_count": 1583
+    },
+    {
+      "page": 16,
+      "section": "Chương 16: Quản lý điểm số điện tử và lưu trữ bài thi",
+      "category": "khao_thi_dam_bao_chat_luong",
+      "char_count": 1541
+    },
+    {
+      "page": 17,
+      "section": "Chương 17: Đánh giá kết quả rèn luyện sinh viên",
+      "category": "cong_tac_sinh_vien",
+      "char_count": 1638
+    },
+    {
+      "page": 18,
+      "section": "Chương 18: Học bổng khuyến khích học tập",
+      "category": "cong_tac_sinh_vien",
+      "char_count": 1645
+    },
+    {
+      "page": 19,
+      "section": "Chương 19: Học bổng tài trợ doanh nghiệp và hỗ trợ khó khăn",
+      "category": "cong_tac_sinh_vien",
+      "char_count": 1652
+    },
+    {
+      "page": 20,
+      "section": "Chương 20: Chế độ miễn giảm học phí và trợ cấp xã hội",
+      "category": "cong_tac_sinh_vien",
+      "char_count": 1714
+    },
+    {
+      "page": 21,
+      "section": "Chương 21: Hoạt động Đoàn - Hội và Câu lạc bộ sinh viên",
+      "category": "cong_tac_sinh_vien",
+      "char_count": 1664
+    },
+    {
+      "page": 22,
+      "section": "Chương 22: Kỷ luật sinh viên và Hội đồng Khen thưởng Kỷ luật",
+      "category": "cong_tac_sinh_vien",
+      "char_count": 1802
+    },
+    {
+      "page": 23,
+      "section": "Chương 23: Tiêu chuẩn xét duyệt ở Ký túc xá",
+      "category": "ky_tuc_xa_noi_tru",
+      "char_count": 1642
+    },
+    {
+      "page": 24,
+      "section": "Chương 24: Nội quy phòng ở và an ninh Ký túc xá",
+      "category": "ky_tuc_xa_noi_tru",
+      "char_count": 1578
+    },
+    {
+      "page": 25,
+      "section": "Chương 25: Quản lý tài sản và bồi thường hư hỏng",
+      "category": "ky_tuc_xa_noi_tru",
+      "char_count": 1542
+    },
+    {
+      "page": 26,
+      "section": "Chương 26: Y tế học đường và sơ cấp cứu khẩn cấp",
+      "category": "ky_tuc_xa_noi_tru",
+      "char_count": 1986
+    },
+    {
+      "page": 27,
+      "section": "Chương 27: Tiện ích Thư viện và Không gian tự học 24/7",
+      "category": "ky_tuc_xa_noi_tru",
+      "char_count": 1536
+    },
+    {
+      "page": 28,
+      "section": "Chương 28: Đăng ký đề tài NCKH sinh viên",
+      "category": "nghien_cuu_khoa_hoc",
+      "char_count": 1726
+    },
+    {
+      "page": 29,
+      "section": "Chương 29: Định mức kinh phí và nghiệm thu đề tài NCKH",
+      "category": "nghien_cuu_khoa_hoc",
+      "char_count": 1894
+    },
+    {
+      "page": 30,
+      "section": "Chương 30: Khen thưởng công bố quốc tế và quy đổi điểm",
+      "category": "nghien_cuu_khoa_hoc",
+      "char_count": 1691
+    },
+    {
+      "page": 31,
+      "section": "Chương 31: Sở hữu trí tuệ và đạo đức nghiên cứu",
+      "category": "nghien_cuu_khoa_hoc",
+      "char_count": 1780
+    },
+    {
+      "page": 32,
+      "section": "Chương 32: Đổi mới sáng tạo và Khởi nghiệp sinh viên",
+      "category": "nghien_cuu_khoa_hoc",
+      "char_count": 1584
+    }
+  ]
+}

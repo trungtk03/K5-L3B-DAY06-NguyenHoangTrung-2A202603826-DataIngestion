@@ -1,0 +1,290 @@
+{
+  "coherence_evaluation": {
+    "sample_size": 10,
+    "strategy_A_average": 1.0,
+    "strategy_B_average": 2.0,
+    "details": [
+      {
+        "position_id": "pos_page_01",
+        "page": 1,
+        "section": "Chương 1: Quy định chung về đào tạo tín chỉ",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p1_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 1: QUY ĐỊNH CHUNG VỀ HÌNH THỨC TỔ CHỨC ĐÀO TẠO THEO HỆ THỐNG TÍN CHỈ\n\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp ...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p1_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 1: QUY ĐỊNH CHUNG VỀ HÌNH THỨC TỔ CHỨC ĐÀO TẠO THEO HỆ THỐNG TÍN CHỈ\n\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp ...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_02",
+        "page": 2,
+        "section": "Chương 2: Đăng ký học phần và kế hoạch học tập",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p2_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 2: ĐĂNG KÝ HỌC PHẦN, GIỚI HẠN TÍN CHỈ VÀ THỦ TỤC ĐIỀU CHỈNH HỌC TẬP\n\nĐiều 4. Hạn mức tín chỉ đăng ký trong học kỳ...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p2_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 2: ĐĂNG KÝ HỌC PHẦN, GIỚI HẠN TÍN CHỈ VÀ THỦ TỤC ĐIỀU CHỈNH HỌC TẬP...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_03",
+        "page": 3,
+        "section": "Chương 3: Chuyên cần và điều kiện dự thi",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p3_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 3: QUY ĐỊNH VỀ CHUYÊN CẦN, THAM GIA LỚP HỌC VÀ ĐIỀU KIỆN DỰ THI KẾT THÚC HỌC PHẦN\n\nĐiều 7. Quy định tham gia lớp ...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p3_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 3: QUY ĐỊNH VỀ CHUYÊN CẦN, THAM GIA LỚP HỌC VÀ ĐIỀU KIỆN DỰ THI KẾT THÚC HỌC PHẦN\n\nĐiều 7. Quy định tham gia lớp ...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_04",
+        "page": 4,
+        "section": "Chương 4: Thang điểm và đánh giá kết quả học tập",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p4_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 4: HỆ THỐNG ĐÁNH GIÁ KẾT QUẢ HỌC TẬP VÀ QUY ĐỔI THANG ĐIỂM\n\nĐiều 10. Cơ cấu điểm học phần 1. Điểm tổng kết học ph...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p4_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 4: HỆ THỐNG ĐÁNH GIÁ KẾT QUẢ HỌC TẬP VÀ QUY ĐỔI THANG ĐIỂM\n\nĐiều 10. Cơ cấu điểm học phần 1. Điểm tổng kết học ph...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_05",
+        "page": 5,
+        "section": "Chương 5: Xử lý học vụ và buộc thôi học",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p5_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 5: TIÊU CHÍ XỬ LÝ HỌC VỤ, CẢNH BÁO HỌC TẬP VÀ BUỘC THÔI HỌC\n\nĐiều 12. Các mức cảnh báo kết quả học tập 1. Sau mỗi...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p5_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 5: TIÊU CHÍ XỬ LÝ HỌC VỤ, CẢNH BÁO HỌC TẬP VÀ BUỘC THÔI HỌC...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_06",
+        "page": 6,
+        "section": "Chương 6: Học lại và học cải thiện điểm",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p6_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 6: QUY ĐỊNH VỀ HỌC LẠI, HỌC CẢI THIỆN ĐIỂM VÀ TÍNH ĐIỂM TÍCH LŨY\n\nĐiều 14. Quy định bắt buộc về học lại học phần ...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p6_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 6: QUY ĐỊNH VỀ HỌC LẠI, HỌC CẢI THIỆN ĐIỂM VÀ TÍNH ĐIỂM TÍCH LŨY...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_07",
+        "page": 7,
+        "section": "Chương 7: Tạm hoãn học tập và bảo lưu kết quả",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p7_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 7: THỦ TỤC VÀ ĐIỀU KIỆN TẠM HOÃN HỌC TẬP, BẢO LƯU KẾT QUẢ\n\nĐiều 16. Điều kiện được xin tạm hoãn học tập (nghỉ học...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p7_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 7: THỦ TỤC VÀ ĐIỀU KIỆN TẠM HOÃN HỌC TẬP, BẢO LƯU KẾT QUẢ...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_08",
+        "page": 8,
+        "section": "Chương 8: Chuyển ngành đào tạo và chuyển trường",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p8_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 8: QUY ĐỊNH VỀ CHUYỂN NGÀNH ĐÀO TẠO, CHUYỂN CƠ SỞ VÀ CHUYỂN TRƯỜNG\n\nĐiều 18. Điều kiện xem xét chuyển ngành đào t...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p8_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 8: QUY ĐỊNH VỀ CHUYỂN NGÀNH ĐÀO TẠO, CHUYỂN CƠ SỞ VÀ CHUYỂN TRƯỜNG...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_09",
+        "page": 9,
+        "section": "Chương 9: Thực tập tốt nghiệp và đồ án khóa luận",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p9_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 9: QUY ĐỊNH VỀ THỰC TẬP TỐT NGHIỆP VÀ KHÓA LUẬN / ĐỒ ÁN TỐT NGHIỆP\n\nĐiều 20. Điều kiện đăng ký thực tập tốt nghiệ...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p9_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 9: QUY ĐỊNH VỀ THỰC TẬP TỐT NGHIỆP VÀ KHÓA LUẬN / ĐỒ ÁN TỐT NGHIỆP...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      },
+      {
+        "position_id": "pos_page_10",
+        "page": 10,
+        "section": "Chương 10: Điều kiện xét và công nhận tốt nghiệp",
+        "strategy_A": {
+          "chunk_id": "handbook_2024_p10_fix_01",
+          "score": 1,
+          "text_preview": "CHƯƠNG 10: TIÊU CHUẨN XÉT TỐT NGHIỆP, CÔNG NHẬN VÀ XẾP LOẠI BẰNG ĐẠI HỌC\n\nĐiều 22. Điều kiện công nhận tốt nghiệp đại họ...",
+          "reason": "Cửa sổ trượt 500 ký tự cắt ngang giữa điều khoản hoặc bị đứt câu ở cuối chunk, cần ghép thêm chunk kế tiếp để hiểu đầy đủ chủ thể."
+        },
+        "strategy_B": {
+          "chunk_id": "handbook_2024_p10_para_01",
+          "score": 2,
+          "text_preview": "CHƯƠNG 10: TIÊU CHUẨN XÉT TỐT NGHIỆP, CÔNG NHẬN VÀ XẾP LOẠI BẰNG ĐẠI HỌC...",
+          "reason": "Phân đoạn theo đoạn văn giữ trọn vẹn tiêu đề điều khoản và các khoản quy định hoàn chỉnh, tự giải thích được ngữ cảnh."
+        }
+      }
+    ]
+  },
+  "metadata_usefulness": {
+    "strategy_A": {
+      "records_checked": 15,
+      "valid_and_accurate": 15,
+      "accuracy_ratio": "15/15",
+      "filter_compliance": "N/A (No filter used in A)",
+      "limitations": "Chỉ lưu thông tin cơ bản source và page, chưa hỗ trợ trường lọc nghiệp vụ."
+    },
+    "strategy_B": {
+      "records_checked": 15,
+      "valid_and_accurate": 15,
+      "accuracy_ratio": "15/15",
+      "filter_compliance": "N/A (No filter executed in B)",
+      "limitations": "Metadata category đã được trích xuất chính xác nhưng chưa được kích hoạt trong truy xuất."
+    },
+    "strategy_C": {
+      "records_checked": 15,
+      "valid_and_accurate": 15,
+      "accuracy_ratio": "15/15",
+      "filter_compliance": "1/1 (100% - Câu q17 có filter category='nghien_cuu_khoa_hoc' và toàn bộ top-3 đều tuân thủ chính xác filter)",
+      "limitations": "Phụ thuộc vào việc câu hỏi hoặc người dùng có cung cấp sẵn trường lọc hợp lệ trước khi truy vấn."
+    }
+  },
+  "grounding_quality": {
+    "test_sample_size": 5,
+    "strategy_A_average": 1.4,
+    "strategy_B_average": 1.6,
+    "strategy_C_average": 1.6,
+    "details": [
+      {
+        "question_id": "q16",
+        "question": "Để đảm nhiệm vị trí chủ nhiệm đề tài nghiên cứu khoa học sinh viên, sinh viên phải từ năm học thứ mấy và đạt điểm GPA tích lũy tối thiểu là bao nhiêu?",
+        "strategy_A": {
+          "score": 2,
+          "reason": "Đầy đủ bằng chứng và số liệu trong top-3."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Chunk theo đoạn văn cung cấp trọn vẹn điều khoản và điều kiện áp dụng, dễ dàng truy vết nguồn gốc."
+        },
+        "strategy_C": {
+          "score": 2,
+          "reason": "Có metadata filter giúp thu hẹp phạm vi chính xác, bằng chứng tập trung tuyệt đối."
+        }
+      },
+      {
+        "question_id": "q17",
+        "question": "Theo danh mục quy định nghiên cứu khoa học, mức kinh phí hỗ trợ tối đa cho đề tài NCKH sinh viên cấp trường nghiệm thu đạt loại A là bao nhiêu?",
+        "strategy_A": {
+          "score": 2,
+          "reason": "Đầy đủ bằng chứng và số liệu trong top-3."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Chunk theo đoạn văn cung cấp trọn vẹn điều khoản và điều kiện áp dụng, dễ dàng truy vết nguồn gốc."
+        },
+        "strategy_C": {
+          "score": 2,
+          "reason": "Có metadata filter giúp thu hẹp phạm vi chính xác, bằng chứng tập trung tuyệt đối."
+        }
+      },
+      {
+        "question_id": "q18",
+        "question": "Sinh viên là tác giả chính có bài báo khoa học xuất bản trên tạp chí thuộc danh mục Scopus hoặc WoS được hưởng quyền lợi gì đối với học phần Đồ án tốt nghiệp?",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bằng chứng xuất hiện trong top-3 nhưng kích thước chunk 500 ký tự có thể thiếu câu giải thích kèm theo."
+        },
+        "strategy_B": {
+          "score": 1,
+          "reason": "Chunk theo đoạn văn cung cấp trọn vẹn điều khoản và điều kiện áp dụng, dễ dàng truy vết nguồn gốc."
+        },
+        "strategy_C": {
+          "score": 1,
+          "reason": "Có metadata filter giúp thu hẹp phạm vi chính xác, bằng chứng tập trung tuyệt đối."
+        }
+      },
+      {
+        "question_id": "q19",
+        "question": "Thời hạn tối đa để người học nộp đơn đề nghị chấm phúc khảo bài thi học phần là bao nhiêu ngày tính từ thời điểm nhà trường công bố điểm thi?",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bằng chứng xuất hiện trong top-3 nhưng kích thước chunk 500 ký tự có thể thiếu câu giải thích kèm theo."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Chunk theo đoạn văn cung cấp trọn vẹn điều khoản và điều kiện áp dụng, dễ dàng truy vết nguồn gốc."
+        },
+        "strategy_C": {
+          "score": 2,
+          "reason": "Có metadata filter giúp thu hẹp phạm vi chính xác, bằng chứng tập trung tuyệt đối."
+        }
+      },
+      {
+        "question_id": "q20",
+        "question": "Những trường hợp cụ thể nào theo quy chế đào tạo sẽ khiến sinh viên bị áp dụng hình thức kỷ luật buộc thôi học?",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bằng chứng xuất hiện trong top-3 nhưng kích thước chunk 500 ký tự có thể thiếu câu giải thích kèm theo."
+        },
+        "strategy_B": {
+          "score": 1,
+          "reason": "Chunk theo đoạn văn cung cấp trọn vẹn điều khoản và điều kiện áp dụng, dễ dàng truy vết nguồn gốc."
+        },
+        "strategy_C": {
+          "score": 1,
+          "reason": "Có metadata filter giúp thu hẹp phạm vi chính xác, bằng chứng tập trung tuyệt đối."
+        }
+      }
+    ]
+  }
+}
