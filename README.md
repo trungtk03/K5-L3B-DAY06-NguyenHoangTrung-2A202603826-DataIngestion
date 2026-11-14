@@ -54,8 +54,7 @@ Dự án hiện thực trọn vẹn pipeline **Data Ingestion Engineering** cho 
 │   ├── benchmark_summary.json     # Thống kê Hit@1/Hit@3 Dev & Test
 │   └── manual_evaluation.json     # Nhãn kiểm toán thủ công Coherence, Metadata, Grounding
 ├── report/individual/
-│   ├── 2A202603826_NguyenHoangTrung.md # Báo cáo cá nhân chi tiết
-│   └── MSSV_HoTen.md              # Bản sao báo cáo theo mẫu
+│   └── 2A202603826_NguyenHoangTrung.md # Báo cáo cá nhân chi tiết
 ├── STUDENT.md                     # Thông tin học viên và repo
 └── SUBMISSION.md                  # Checklist nộp bài
 ```
